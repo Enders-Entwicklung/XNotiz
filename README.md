@@ -3,6 +3,9 @@ Ich programmiere eine Notizblock
 
 Diese Anwendung ist KOMPLETT KOSTENLOS und hat KEINE Werbung.
 Fehler, Backs oder Fadbacks bitte an entwicklung.sascha.enders@outlook.de
+Wir antworten innnerhalb von 1-2 Werktagen.
+Werktags 06:00-7:30 16:00-20:00 
+
  senden. VIEL SPAß MIT UNSEREM PROGRAMM!!
 
 
