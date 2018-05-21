@@ -24,8 +24,8 @@ Weitere Fragen oder Fadbacks bitte an entwicklung.sascha.enders@outlook.de
 VIEL SPAß MIT UNSERER ANWENDUNG!!!!!
 
 Versionsverlauf
-1.0.0.1
-Readmi.txt in Anwendung öffnebar
-Suchenbutton entfernt
-Fenster und Button Support anfragen entfernt
-Anwendung umbenannt von "Notizbuch" zu "XNotiz".
+1.0.0.1 - 
+Readmi.txt in Anwendung öffnebar. 
+Suchenbutton entfernt. 
+Fenster und Button Support anfragen entfernt. 
+Anwendung umbenannt von "Notizbuch" zu "XNotiz". 
